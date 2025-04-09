@@ -1,0 +1,29 @@
+.exam-container {
+    padding: 2rem;
+    background: #f7f7f7;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .exam-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
+  .question input {
+    width: 100%;
+    padding: 0.6rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .rules-container, .exam-finish {
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 8px;
+  }
+  
